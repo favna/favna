@@ -8,6 +8,7 @@ of writing, I am working for CGI Inc. as a Full Stack Senior Software Engineer &
 Some of the projects I work on:
 
 - [Sapphire] (Open source libraries to aid in the creation of Discord bots)
+- [XIVEventBuddy][xiveventbuddy] (Event / Raid helper bot for Final Fantasy XIV)
 - [Dragonite Discord bot][dragonite] (Pokémon information Discord bot)
 - [GraphQL Pokémon API][gqlp]
 - [Skyra Project] (Multiple Discord bots and Discord related libraries)
@@ -48,6 +49,7 @@ You can reach out to me on a multitude of platforms!
 [dexa]: https://github.com/favware/dexa
 [discord]: https://discord.com
 [dragonite]: https://github.com/favware/dragonite
+[xiveventbuddy]: https://github.com/favware/xiveventbuddy
 [email]: mailto:support@favware.tech
 [favware]: https://github.com/favware
 [gqlp]: https://github.com/favware/graphql-pokemon
